@@ -1,0 +1,6 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
+/sonarlint/issuestore/0/e/0e69ce4bdb780c3be2963b2da7a6011bda09b49d
